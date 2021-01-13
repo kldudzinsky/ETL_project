@@ -1,0 +1,37 @@
+DAIRYPROD,DAIRYPROD_LABEL,GEO,TIME,MILKITEM,Value,Flag and Footnotes,Milk type
+D7121,Cheese from cows'milk (pure),France,2008,Products obtained (1 000 t),"1,718.04",,1
+D7121,Cheese from cows'milk (pure),France,2009,Products obtained (1 000 t),"1,691.21",,1
+D7121,Cheese from cows'milk (pure),France,2010,Products obtained (1 000 t),"1,759.47",,1
+D7121,Cheese from cows'milk (pure),France,2011,Products obtained (1 000 t),"1,765.09",,1
+D7121,Cheese from cows'milk (pure),France,2012,Products obtained (1 000 t),"1,768.19",,1
+D7121,Cheese from cows'milk (pure),France,2013,Products obtained (1 000 t),"1,789.10",,1
+D7121,Cheese from cows'milk (pure),France,2014,Products obtained (1 000 t),"1,785.43",p,1
+D7121,Cheese from cows'milk (pure),France,2015,Products obtained (1 000 t),"1,782.12",p,1
+D7121,Cheese from cows'milk (pure),France,2016,Products obtained (1 000 t),"1,743.55",p,1
+D7121,Cheese from cows'milk (pure),France,2017,Products obtained (1 000 t),"1,744.50",p,1
+D7121,Cheese from cows'milk (pure),France,2018,Products obtained (1 000 t),"1,728.03",p,1
+D7121,Cheese from cows'milk (pure),France,2019,Products obtained (1 000 t),"1,762.95",p,1
+D7122,Cheese from ewes milk (pure),France,2008,Products obtained (1 000 t),25.25,,2
+D7122,Cheese from ewes milk (pure),France,2009,Products obtained (1 000 t),24.37,,2
+D7122,Cheese from ewes milk (pure),France,2010,Products obtained (1 000 t),24.25,,2
+D7122,Cheese from ewes milk (pure),France,2011,Products obtained (1 000 t),25.01,,2
+D7122,Cheese from ewes milk (pure),France,2012,Products obtained (1 000 t),28.92,,2
+D7122,Cheese from ewes milk (pure),France,2013,Products obtained (1 000 t),33.14,,2
+D7122,Cheese from ewes milk (pure),France,2014,Products obtained (1 000 t),51.98,p,2
+D7122,Cheese from ewes milk (pure),France,2015,Products obtained (1 000 t),59.14,p,2
+D7122,Cheese from ewes milk (pure),France,2016,Products obtained (1 000 t),63.3,p,2
+D7122,Cheese from ewes milk (pure),France,2017,Products obtained (1 000 t),63.44,p,2
+D7122,Cheese from ewes milk (pure),France,2018,Products obtained (1 000 t),62.85,p,2
+D7122,Cheese from ewes milk (pure),France,2019,Products obtained (1 000 t),64.31,p,2
+D7123,Cheese from goats milk (pure),France,2008,Products obtained (1 000 t),89.48,,3
+D7123,Cheese from goats milk (pure),France,2009,Products obtained (1 000 t),90.27,,3
+D7123,Cheese from goats milk (pure),France,2010,Products obtained (1 000 t),92.74,,3
+D7123,Cheese from goats milk (pure),France,2011,Products obtained (1 000 t),96.19,,3
+D7123,Cheese from goats milk (pure),France,2012,Products obtained (1 000 t),96.57,,3
+D7123,Cheese from goats milk (pure),France,2013,Products obtained (1 000 t),94.49,,3
+D7123,Cheese from goats milk (pure),France,2014,Products obtained (1 000 t),96.23,p,3
+D7123,Cheese from goats milk (pure),France,2015,Products obtained (1 000 t),100.31,p,3
+D7123,Cheese from goats milk (pure),France,2016,Products obtained (1 000 t),104.03,p,3
+D7123,Cheese from goats milk (pure),France,2017,Products obtained (1 000 t),103.83,p,3
+D7123,Cheese from goats milk (pure),France,2018,Products obtained (1 000 t),108.02,p,3
+D7123,Cheese from goats milk (pure),France,2019,Products obtained (1 000 t),102.41,p,3

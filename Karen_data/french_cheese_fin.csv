@@ -1,0 +1,338 @@
+department,cheese,milk,milk_number
+Dr√¥me,P√©tafine,Goat Milk,3
+Loire-Atlantique,Le Cur√© Nantais,Cow Milk,1
+Loiret,Frinault,Cow Milk,1
+Savoie,Tomme de Savoie,Cow Milk,1
+Seine-Maritime,Bouille,Cow Milk,1
+C√¥te-d'Or,Gruy√®re fran√ßais,Cow Milk,1
+Eure,Pont-l'√©v√™que,Cow Milk,1
+Tarn,P√©rail,Sheep Milk,2
+Manche,Pont-l'√©v√™que,Cow Milk,1
+Dordogne,Chaumes,Cow Milk,1
+Jura,Chevret du Haut-Jura,Cow Milk,1
+Doubs,Morbier,Cow Milk,1
+Ain,Tracle,Cow Milk,1
+Ard√®che,Rogeret des C√©vennes,Goat Milk,3
+Aveyron,Rebarbe,Sheep Milk,2
+Corr√®ze,Ovalie,Sheep Milk,2
+C√¥te-d'Or,L'Ami du Chambertin,Cow Milk,1
+Haute-Corse,A Filetta,Sheep Milk,2
+Hautes-Alpes,Saint-laurent,Cow Milk,1
+Loire-Atlantique,Saint-gildas-des-bois,Cow Milk,1
+Loiret,Pannes cendr√©,Cow Milk,1
+Nord,Dauphin,Cow Milk,1
+Rh√¥ne,Tarare,Cow Milk,1
+Savoie,Chevrotin,Goat Milk,2
+Savoie,Persill√© des Aravis,Goat Milk,2
+Cantal,Bleu d'Auvergne,Cow Milk,1
+Aveyron,Gabriel Coulet,Sheep Milk,3
+Marne,Brie de Meaux,Cow Milk,1
+Cantal,Cantal,Cow Milk,1
+Savoie,Tomme crayeuse,Cow Milk,1
+Haute-Marne,√âpoisses,Cow Milk,1
+Ain,Emmental de Savoie,Cow Milk,1
+Savoie,Reblochon,Cow Milk,1
+Loz√®re,Tome fra√Æche,Cow Milk,1
+Hautes-Alpes,Aiguille d'Orci√®res,Cow Milk,1
+Marne,Moulin de Gaye,Cow Milk,1
+Puy-de-D√¥me,Goat Milkton,Goat Milk,3
+Savoie,Beaumont,Cow Milk,1
+Savoie,Bleu de Termignon,Cow Milk,1
+Morbihan,Tome de Rhuys,Cow Milk,1
+Loz√®re,L√©v√©jac,Sheep Milk,2
+Mayenne,Vieux pan√©,Cow Milk,1
+Nord,Boulette d'Avesnes,Cow Milk,1
+Allier,Le D√©lice du Chalet,Cow Milk,1
+Ardennes,Rocroi,Cow Milk,1
+Cher,Santranges-sancerre,Goat Milk,3
+Corr√®ze,Pav√© corr√©zien,Cow Milk,1
+Indre,Arthon,Goat Milk,3
+Loiret,Ch√©cy,Cow Milk,1
+Pas-de-Calais,Vieux Boulogne,Cow Milk,1
+Rh√¥ne,Charolais,Goat Milk,3
+Cantal,Tome fra√Æche,Cow Milk,1
+Charente-Maritime,Caillebotte,Cow Milk,1
+Loire,Fromager d'Affinois,Cow Milk,1
+Maine-et-Loire,Chauss√©e aux moines,Cow Milk,1
+Moselle,Munster,Cow Milk,1
+Ille-et-Vilaine,Petit Billy,Goat Milk,3
+Charente,Taupinette,Goat Milk,3
+Aveyron,P√©rail,Sheep Milk,2
+Savoie,Thollon,Cow Milk,1
+Oise,Tomme au foin,Cow Milk,1
+Haute-Loire,Fromage aux artisons,Cow Milk,1
+Ard√®che,Picodon,Goat Milk,3
+Lot,Cab√©cou,Goat Milk,3
+Vosges,Munster,Cow Milk,1
+Calvados,Pav√© d'Auge,Cow Milk,1
+Corr√®ze,Truffe de Ventadour,Goat Milk,3
+Haute-Loire,Bleu de Costaros,Cow Milk,1
+Indre,Tournon-saint-pierre,Goat Milk,3
+Pas-de-Calais,Pav√© aux Algues de Samer,Cow Milk,1
+Yonne,Saint-florentin,Cow Milk,1
+Savoie,Gruy√®re fran√ßais,Cow Milk,1
+Dr√¥me,Foudjou,Goat Milk,3
+Ain,Pourri bressan,Cow Milk,1
+Ari√®ge,Le Moulis,Sheep Milk,2
+Is√®re,Bleu de Lavaldens,Cow Milk,1
+Seine-et-Marne,Coulommiers,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Ossau-iraty,Sheep Milk,2
+Aveyron,Bleu d'Auvergne,Cow Milk,1
+Doubs,Gruy√®re fran√ßais,Cow Milk,1
+Ain,Bleu de Gex,Cow Milk,1
+Loz√®re,Laguiole,Cow Milk,1
+Haute-Loire,Rochebaron,Cow Milk,1
+Gard,Picodon,Goat Milk,3
+Indre-et-Loire,Valen√ßay,Goat Milk,3
+Vaucluse,Picodon,Goat Milk,3
+Ain,Clon,Cow Milk,1
+Dordogne,St M√¥ret,Cow Milk,1
+Haute-Sa√¥ne,Gruy√®re fran√ßais,Cow Milk,1
+Hautes-Alpes,Persill√© du col Bayard,Cow Milk,1
+Loire-Atlantique,Gourmelin,Cow Milk,1
+R√©union,Mont B√©bour,Cow Milk,1
+R√©union,Piton Ma√Ødo,Cow Milk,1
+Rh√¥ne,Rigotte de Condrieu,Goat Milk,3
+Cantal,Saint-nectaire,Cow Milk,1
+Haute-Marne,Gruy√®re fran√ßais,Cow Milk,1
+Loz√®re,P√©lardon,Goat Milk,3
+Aube,Brie de Melun,Cow Milk,1
+Ain,Chevret,Goat Milk,3
+Jura,P√©rassu,Cow Milk,1
+Loz√®re,Rebarbe,Sheep Milk,2
+R√©union,Takamaka,Goat Milk,3
+Savoie,Cow Milkrin des Bauges,Cow Milk,1
+Sa√¥ne-et-Loire,M√¢connais,Goat Milk,3
+Seine-Maritime,Neufch√¢tel,Cow Milk,1
+Aveyron,Cab√©cou,Goat Milk,3
+Aube,Soumaintrain,Cow Milk,1
+Savoie,Raclette,Cow Milk,1
+Loir-et-Cher,Valen√ßay,Goat Milk,3
+Aude,P√©lardon,Goat Milk,3
+Ari√®ge,Bethmale,Cow Milk,1
+Nord,Rollot,Cow Milk,1
+Loir-et-Cher,Le Petit Tr√¥o,Cow Milk,1
+Puy-de-D√¥me,Le Lavort,Sheep Milk,2
+Pyr√©n√©es-Atlantiques,Ardi-Gasna,Sheep Milk,2
+Rh√¥ne,M√¢connais,Goat Milk,3
+Yonne,Boulette de la Pierre-qui-Vire,Cow Milk,1
+Loz√®re,Bleu des Causses,Cow Milk,1
+Tarn,P√©lardon,Goat Milk,3
+Cher,Faisselle,Cow Milk,1
+Yonne,Brie de Melun,Cow Milk,1
+Haute-Garonne,Cathare,Goat Milk,3
+Aube,Chaource,Cow Milk,1
+Haute-Garonne,Tomme des Pyr√©n√©es,Cow Milk,1
+Cher,Crottin de Chavignol,Goat Milk,3
+Territoire de Belfort,Gruy√®re fran√ßais,Cow Milk,1
+Ari√®ge,Monts√©gur,Cow Milk,1
+Cantal,Bleu de Thi√©zac,Cow Milk,1
+Jura,La Cow Milk qui rit,Cow Milk,1
+Loiret,Patay,Cow Milk,1
+Lot,Rocamadour,Goat Milk,3
+Eure,Le Pav√© du Plessis,Cow Milk,1
+Loz√®re,Persill√© du Malzieu,Sheep Milk,2
+Nord,Baguette paysanne √† la moutarde,Cow Milk,1
+Pas-de-Calais,Ch'ti Cr√©meux,Cow Milk,1
+Sa√¥ne-et-Loire,Charolais,Goat Milk,3
+Haut-Rhin,Munster,Cow Milk,1
+Pas-de-Calais,Rollot,Cow Milk,1
+Haute-Corse,Brin d'amour,Sheep Milk,2
+Savoie,Abbaye de Tami√©,Cow Milk,1
+Ain,Chevret du Haut-Jura,Cow Milk,1
+Ard√®che,Le Coucouron,Cow Milk,1
+Loire,Charolais,Goat Milk,3
+Loire,Rigotte de P√©lussin,Goat Milk,3
+Loiret,Olivet,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Le Brebiou,Sheep Milk,2
+R√©union,Notre Dame de la Paix,Cow Milk,1
+R√©union,Ti frais des Hauts,Cow Milk,1
+Savoie,Persill√© de Tignes,Goat Milk,3
+Yonne,Abbaye de la Pierre-qui-Vire,Cow Milk,1
+C√¥te-d'Or,Le Trou du Cru,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Etorki,Sheep Milk,2
+Loir-et-Cher,Sainte-Maure de Touraine,Goat Milk,3
+H√©rault,P√©lardon,Goat Milk,3
+Ari√®ge,Tomme des Pyr√©n√©es,Cow Milk,1
+Nord,Mont des Cats,Cow Milk,1
+Mayenne,Pont-l'√©v√™que,Cow Milk,1
+Pas-de-Calais,Fort de B√©thune,Cow Milk,1
+Loz√®re,Bleu d'Auvergne,Cow Milk,1
+Haute-Marne,Caprice des Dieux,Cow Milk,1
+Seine-et-Marne,Brie de Melun,Cow Milk,1
+C√¥te-d'Or,Aisy cendr√©,Cow Milk,1
+Savoie,Br√©zain,Cow Milk,1
+Haute-Corse,Corsica,Sheep Milk,2
+Pas-de-Calais,Le Sire de Cr√©quy,Cow Milk,1
+Savoie,Bleu du Mont-Cenis,Cow Milk,1
+Haute-Loire,Bleu d'Auvergne,Cow Milk,1
+Calvados,Pont-l'√©v√™que,Cow Milk,1
+Yonne,Boule des moines,Cow Milk,1
+Seine-Maritime,Le Graval,Cow Milk,1
+Aveyron,Soci√©t√©,Sheep Milk,2
+C√¥te-d'Or,Petit Gaugry,Cow Milk,1
+Aisne,Belle des champs,Cow Milk,1
+Rh√¥ne,Ar√¥me au vin blanc,Cow Milk,1
+Savoie,Grataron du Beaufortain,Goat Milk,3
+Sa√¥ne-et-Loire,Autun,Goat Milk,3
+Savoie,Moelleux du Revard,Cow Milk,1
+Jura,Bleu de Gex,Cow Milk,1
+Hautes-Pyr√©n√©es,Tomme des Pyr√©n√©es,Cow Milk,1
+Yonne,√âpoisses,Cow Milk,1
+Somme,Rollot,Cow Milk,1
+Aube,Barberey,Cow Milk,1
+Haute-Loire,Bleu de Loudes,Cow Milk,1
+Nord,Briquette de l'Ecaillon,Goat Milk,3
+Nord,T'chiot biloute,Cow Milk,1
+Puy-de-D√¥me,Fourme de Rochefort-Montagne,Cow Milk,1
+R√©union,Petit moka,Cow Milk,1
+Puy-de-D√¥me,Gaperon,Cow Milk,1
+Mayenne,Trappiste de Laval,Cow Milk,1
+Oise,Neufch√¢tel,Cow Milk,1
+Savoie,Beaufort,Cow Milk,1
+Sarthe,Kiri,Cow Milk,1
+Lot,Bleu d'Auvergne,Cow Milk,1
+Ari√®ge,Le Rogallais,Cow Milk,1
+Is√®re,Bleu du Vercors-Sassenage,Cow Milk,1
+Ain,Bresse Bleu,Cow Milk,1
+Ain,Comt√©,Cow Milk,1
+Allier,Charolais,Goat Milk,3
+Aveyron,Recuite,Sheep Milk,2
+Cantal,Carr√© d'Aurillac,Cow Milk,1
+Manche,Coutances,Cow Milk,1
+Nord,Carr√© du Vinage,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Tomette de Sheep Milk,Sheep Milk,2
+Savoie,Bleu de Sainte-Foy,Cow Milk,1
+Seine-et-Marne,Fontainebleau,Cow Milk,1
+Val-de-Marne,D√©lice de Saint-Cyr,Cow Milk,1
+Mayenne,Chauss√©e aux moines,Cow Milk,1
+Vienne,Sainte-Maure de Touraine,Goat Milk,3
+Aveyron,Laguiole,Cow Milk,1
+Hautes-Pyr√©n√©es,Ossau-iraty,Sheep Milk,2
+Aveyron,Tome fra√Æche,Cow Milk,1
+Allier,Chamb√©rat,Cow Milk,1
+Indre-et-Loire,Couronne Lochoise,Goat Milk,3
+Loz√®re,Le F√©dou,Sheep Milk,2
+Nord,Tome de Cambrai,Cow Milk,1
+R√©union,Cap Noir,Cow Milk,1
+Savoie,Emmental de Savoie,Cow Milk,1
+Savoie,Tomme forte de Savoie,Cow Milk,1
+Ain,Gruy√®re fran√ßais,Cow Milk,1
+Aude,Tomme des Pyr√©n√©es,Cow Milk,1
+Puy-de-D√¥me,Roue de Ris,Sheep Milk,2
+Aveyron,Bleu des Causses,Cow Milk,1
+Mayenne,Bons Mayennais,Cow Milk,1
+Puy-de-D√¥me,Saint-nectaire,Cow Milk,1
+Haute-Sa√¥ne,Munster,Cow Milk,1
+Jura,Gruy√®re fran√ßais,Cow Milk,1
+Indre,Valen√ßay,Goat Milk,3
+Puy-de-D√¥me,Fourme d'Ambert,Cow Milk,1
+Charente,Chavroux,Goat Milk,3
+Bas-Rhin,Munster,Cow Milk,1
+Nord,Boulet de Cassel,Cow Milk,1
+Haute-Marne,Brie de Meaux,Cow Milk,1
+Aisne,Dauphin,Cow Milk,1
+Ard√®che,Saint-f√©licien,Cow Milk,1
+Aveyron,Lou P√©rac,Sheep Milk,2
+Eure,Pav√© d'Auge,Cow Milk,1
+Loiret,Pithiviers au foin,Cow Milk,1
+Orne,Pav√© d'Auge,Cow Milk,1
+Savoie,Tome des Bauges,Cow Milk,1
+Gard,P√©lardon,Goat Milk,3
+Ain,Carr√© Frais,Cow Milk,1
+Nord,Le Rouchi √† l'√©chalote,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Ka√Økou,Sheep Milk,2
+R√©union,La Fournaise,Cow Milk,1
+Savoie,Abondance,Cow Milk,1
+Puy-de-D√¥me,Bleu d'Auvergne,Cow Milk,1
+Indre,Sainte-Maure de Touraine,Goat Milk,3
+Pyr√©n√©es-Atlantiques,Tomme des Pyr√©n√©es,Cow Milk,1
+Cantal,Laguiole,Cow Milk,1
+Territoire de Belfort,Munster,Cow Milk,1
+Sa√¥ne-et-Loire,Morbier,Cow Milk,1
+Cantal,Cab√©cou,Goat Milk,2
+Ain,Morbier,Cow Milk,1
+Meurthe-et-Moselle,Munster,Cow Milk,1
+Morbihan,Trappiste de Camp√©n√©ac,Cow Milk,1
+C√¥te-d'Or,√âpoisses,Cow Milk,1
+Ard√®che,Goat Milkton,Goat Milk,3
+Calvados,Carr√© de Bonneville,Cow Milk,1
+Morbihan,Abbaye de la Joie Notre-Dame,Cow Milk,1
+Pas-de-Calais,Trappiste de Belval,Cow Milk,1
+Savoie,Persill√© du Mont-Cenis,Goat Milk,3
+Sarthe,Cousteron,Cow Milk,1
+Cantal,Fromage de Pays,Cow Milk,1
+Corr√®ze,Bleu d'Auvergne,Cow Milk,1
+C√¥te-d'Or,Abbaye de C√Æteaux,Cow Milk,1
+Aveyron,Caill√©,Cow Milk,1
+C√¥te-d'Or,Affid√©lice,Cow Milk,1
+Pas-de-Calais,Vieux Samer,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Saint Albray,Cow Milk,1
+Sa√¥ne-et-Loire,Montrachet,Goat Milk,3
+Cantal,Salers,Cow Milk,1
+Orne,Fourmag√©e,Cow Milk,1
+Charente-Maritime,Tricorne de Marans,Sheep Milk,2
+Landes,Amou,Sheep Milk,2
+Pyr√©n√©es-Atlantiques,Le Bleu des Basques,Sheep Milk,2
+Rh√¥ne,La Pierre Dor√©e,Goat Milk,3
+Savoie,Tomme blanche,Cow Milk,1
+Seine-et-Marne,Gratte-Paille,Cow Milk,1
+Puy-de-D√¥me,Fourme de Montbrison,Cow Milk,1
+Aube,Brie de Meaux,Cow Milk,1
+Loire,Fourme de Montbrison,Cow Milk,1
+Cher,Valen√ßay,Goat Milk,3
+Haute-Loire,Montbriac,Cow Milk,1
+Hautes-Alpes,Tome du Champsaur,Cow Milk,1
+Indre,Pouligny-saint-pierre,Goat Milk,3
+Mayenne,Port-Salut,Cow Milk,1
+Savoie,Avalin,Cow Milk,1
+Sa√¥ne-et-Loire,Bouton de Culotte,Goat Milk,3
+Seine-et-Marne,Brie de Montereau,Cow Milk,1
+Orne,Le Rustique,Cow Milk,1
+Indre-et-Loire,Sainte-Maure de Touraine,Goat Milk,3
+Ain,Ramequin,Cow Milk,1
+Sa√¥ne-et-Loire,Gruy√®re fran√ßais,Cow Milk,1
+Loir-et-Cher,Selles-sur-cher,Goat Milk,3
+Hautes-Pyr√©n√©es,Barousse,Sheep Milk,2
+Haute-Loire,Saint Agur,Cow Milk,1
+Lot,Bleu du Quercy,Cow Milk,1
+Nord,Larron d'Ors,Cow Milk,1
+R√©union,Piton des Neiges,Cow Milk,1
+R√©union,Fromage des Plaines,Cow Milk,1
+Dr√¥me,Picodon,Goat Milk,3
+Haute-Marne,Langres,Cow Milk,1
+Rh√¥ne,Ar√¥me de Lyon,Cow Milk,1
+Jura,Morbier,Cow Milk,1
+Nord,Mimolette,Cow Milk,1
+Charente-Maritime,Jonch√©e,Cow Milk,1
+Dr√¥me,Bleu du Vercors-Sassenage,Cow Milk,1
+Haute-Loire,Tomme de Montagne,Cow Milk,1
+Is√®re,Gruy√®re fran√ßais,Cow Milk,1
+Puy-de-D√¥me,Bleu de Laqueuille,Cow Milk,1
+R√©union,D√©lice de la Sicalait,Cow Milk,1
+R√©union,La Petite Raclette,Cow Milk,1
+Vienne,Mottin charentais,Cow Milk,1
+Orne,Pont-l'√©v√™que,Cow Milk,1
+Dordogne,Trappe √âchourgnac,Cow Milk,1
+Seine-et-Marne,Brie de Nangis,Cow Milk,1
+Loire,Rigotte de Condrieu,Goat Milk,3
+Vosges,Gruy√®re fran√ßais,Cow Milk,1
+Pyr√©n√©es-Atlantiques,P'tit Basque,Sheep Milk,2
+Seine-Maritime,Pont-l'√©v√™que,Cow Milk,1
+Seine-et-Marne,Brie de Meaux,Cow Milk,1
+Aveyron,Roquefort,Sheep Milk,2
+Allier,Bessay,Cow Milk,1
+Allier,Grand tomachon,Cow Milk,1
+Eure-et-Loir,Voves cendr√©,Cow Milk,1
+Hautes-Alpes,Bleu du D√©voluy,Cow Milk,1
+Hautes-Alpes,Pic du Vieux Chaillol,Cow Milk,1
+Loire-Atlantique,Chandamour,Cow Milk,1
+Moselle,Tomme de Gorze,Cow Milk,1
+Moselle,Tourr√©e de l'Aubier,Cow Milk,1
+Pas-de-Calais,Cr√©met du Cap Blanc Nez,Cow Milk,1
+Pyr√©n√©es-Atlantiques,Abbaye de Belloc,Sheep Milk,2
+Pyr√©n√©es-Atlantiques,Gaztanbera,Sheep Milk,2
+Savoie,Fromage aux noix,Cow Milk,1
+Yonne,Supr√™me des Ducs,Cow Milk,1
+Loiret,Crottin de Chavignol,Goat Milk,3
+Yonne,Soumaintrain,Cow Milk,1
